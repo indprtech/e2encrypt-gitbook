@@ -4,8 +4,14 @@
 git clone https://github.com/indprtech/e2encrypt
 ```
 
-Installing Packages
+Setting Up
 
 ```bash
-composer install
+bin/setup
+```
+
+Serving Local HTTP
+
+```bash
+bin/serve
 ```

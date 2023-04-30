@@ -1,3 +1,7 @@
+---
+description: system/User/Config.php
+---
+
 # Sample Config File
 
 ```php

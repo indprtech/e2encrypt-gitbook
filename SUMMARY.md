@@ -28,7 +28,20 @@
 
 ## 💽 Database
 
+* [Using SQlite3 Instead of Mysql](database/using-sqlite3-instead-of-mysql.md)
 * [List all Rows](database/list-all-rows.md)
 * [Add New Row](database/add-new-row.md)
 * [Update Existing Row](database/update-existing-row.md)
 * [Delete Row](database/delete-row.md)
+
+## 🍪 Cookies / Storing Data on Client-Side
+
+* [Importing Biscuit Library](cookies-storing-data-on-client-side/importing-biscuit-library.md)
+* [Set The Session](cookies-storing-data-on-client-side/set-the-session.md)
+* [Get the Session](cookies-storing-data-on-client-side/get-the-session.md)
+* [Remove the Session](cookies-storing-data-on-client-side/remove-the-session.md)
+
+***
+
+* [🗃 Upload Files](upload-files.md)
+* [💻 Core Functions](core-functions.md)
